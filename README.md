@@ -1,2 +1,5 @@
 # et.si.on.codait.l.iot
-workshop
+
+Work in progress ...
+
+à venir les ressources et les corrigés des exercices
